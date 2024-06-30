@@ -1,4 +1,4 @@
-include(IsArchive)
+include(DownloadArtifact)
 
 # Test cases
 set(TEST_FILES
